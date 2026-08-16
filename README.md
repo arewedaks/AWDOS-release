@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>🚀 AWD OS (Beta Release)</h1>
+  <h1>AWD OS</h1>
   <p><b>Advanced WebUI Dashboard for Android Root & Network Management</b></p>
 </div>
 
-## 📌 Apa itu AWD OS?
+## Apa itu AWD OS?
 AWD OS adalah sebuah Modul Magisk/KernelSU revolusioner yang menyulap perangkat Android Anda menjadi sebuah "Super Router" dan mesin manajemen jaringan bertenaga tinggi yang dapat dikendalikan sepenuhnya melalui antarmuka Web (WebUI) yang indah dan responsif. 
 
 Berbeda dengan aplikasi manajemen biasa, **AWD OS berjalan secara native (Go Language)** di level akar sistem (Root), memungkinkan Anda untuk memanipulasi pengaturan inti Android dari browser mana pun tanpa menginstal aplikasi `.apk` tambahan!
 
-## ✨ Fitur Unggulan
+## Fitur Unggulan
 - **⚡ Super Cepat & Ringan:** Ditenagai oleh *backend* Golang murni, sangat efisien dan hemat RAM.
 - **🌐 Web-based Dashboard:** Atur device Anda melalui UI modern dan estetik dari browser mana saja (PC, Laptop, atau HP lain).
 - **🛠️ Manajemen Root Total:** Dukungan ganda yang terintegrasi secara cerdas untuk Magisk maupun KernelSU.
@@ -22,4 +22,4 @@ File yang ada di sini adalah paket modul Magisk yang sudah jadi (dikompilasi) da
 
 - 📥 **Unduh Modul:** [`AWD-OS-Beta.zip`](AWD-OS-Beta.zip)
 
-> *Dikembangkan dengan ❤️ oleh AreweDaks.*
+> *Dikembangkan oleh AreweDaks.*
